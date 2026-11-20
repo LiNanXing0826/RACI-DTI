@@ -1,8 +1,8 @@
-# GDCA-DTI
+# RACI-DTI
 
-## Geometry-guided Directional Cross-modal Attention for Drug–Target Interaction Prediction
+## Role-Aware Cross-Modal Interaction Learning for Robust Drug–Target Interaction Prediction
 
-Official implementation of **GDCA-DTI**, a geometry-guided directional cross-modal attention framework for drug–target interaction (DTI) prediction.
+Official implementation of **RACI-DTI**, a geometry-guided directional cross-modal attention framework for drug–target interaction (DTI) prediction.
 
 ---
 
@@ -21,9 +21,9 @@ Existing approaches often combine heterogeneous molecular features before intera
 
 To address these challenges, we propose:
 
-**GDCA-DTI: Geometry-guided Directional Cross-modal Attention for Drug–Target Interaction Prediction**
+**RACI-DTI: Role-Aware Cross-Modal Interaction Learning for Robust Drug–Target Interaction Predictionn**
 
-GDCA-DTI preserves complementary molecular views before interaction learning and explicitly models directional information exchange between drug and protein modalities.
+RACI-DTI preserves complementary molecular views before interaction learning and explicitly models directional information exchange between drug and protein modalities.
 
 The framework integrates:
 
@@ -36,7 +36,7 @@ The framework integrates:
 
 # Method Overview
 
-GDCA-DTI contains four major components:
+RACI-DTI contains four major components:
 
 1. Multi-perspective molecular representation
 2. Common-space projection
